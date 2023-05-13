@@ -21,7 +21,7 @@ The code that works the application can be found in python file “functions”.
 5.	I created a method that generates a random pin number for every account 
 6.	Another method allows the user to activate the account by introducing the pin number
 7.	I made a method that allows the user to supply the account
-8.	Another method allows the user to pay/withdraw a sum of money and if it is more than the available sum in the account it shows the user that there are insufficient funds.
+8.	Another method allows the user to pay/withdraw a sum of money and if it is more than the available sum in the account it shows the user that there are insufficient funds.\
 All this are called in the file “operating_system” where:\
 1.	 I instantiated objects as bank accounts “account1” and “account2”
 2.	 I called the functions for every object.
