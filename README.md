@@ -1,4 +1,4 @@
-This is a personal project that I made to exercise my coding skills.
+This is a personal project that I made to exercise my coding skills.\
 It was created with PyCharm Community Edition 2022.1.3 in Python programming language. If you want to see how it works you have to:
 1.	Download PyCharm Community Edition 2022.1.3 from: https://www.jetbrains.com/pycharm/download/#section=windows .
 2.	Install PyCharm
@@ -12,7 +12,7 @@ It was created with PyCharm Community Edition 2022.1.3 in Python programming lan
 6.	Open the project in PyCharm – open the program – go to File – Open – choose the cloned application
 7.	To run the application, you have to go in the python file “operating_system”, click right and choose “Run” – then you have to follow the instructions from the console.
 
-How it was made:
+How it was made:\
 The code that works the application can be found in python file “functions”. 
 1.	I made a class – “Bank_account”
 2.	I created a constructor where I established the arguments that I needed to make the application;
